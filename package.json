@@ -1,0 +1,25 @@
+{
+  "name": "payment-using-paystack",
+  "version": "1.0.0",
+  "description": "Payment gateway using paystuck",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriCSM/payment-paystack.git"
+  },
+  "keywords": [
+    "payment",
+    "gateway",
+    "using",
+    "paystack"
+  ],
+  "author": "adri candra saputra mangidi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adriCSM/payment-paystack/issues"
+  },
+  "homepage": "https://github.com/adriCSM/payment-paystack#readme"
+}
